@@ -24,9 +24,9 @@ rstring = r.text            #data is now a string
 rlist = json.loads(rstring) #data is now a list of one item
 rdict = rlist[0]            #data is now a dictonary
 
-print(itextyellow + "fortune: " + textreset + rdict['summary'])
-print("Score: " + rdict['votes'])
-print(textyellow + rdict['command'] + textreset)
-print("http://www.commandlinefu.com/commands/view/"+ rdict['id'] + "/")
-print("--")
+print itextyellow + "fortune: " + textreset + rdict['summary']
+print "Score: " + rdict['votes']
+print textyellow + rdict['command'] + textreset
+print "http://www.commandlinefu.com/commands/view/"+ rdict['id'] + "/"
+print "--"
 
