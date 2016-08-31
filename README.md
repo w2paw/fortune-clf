@@ -1,6 +1,6 @@
 # fortune-clf
 
-31aug2016 - for goodness sake, don't use this anymore. The spam is out of control and the creaters obviously don't give a damn. I was going to modify the execution to cache content, display that hint locally for mininimum delay and then fetch for the next usage. I don't think that's worthwile at this point.
+31aug2016 - for goodness sake, don't use this anymore. The spam is out of control and the creators obviously don't give a damn. I was going to modify the execution to cache content, display that hint locally for minimum delay and then fetch for the next usage. I don't think that's worthwhile at this point.
 
 --  
 
